@@ -26,9 +26,11 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+**Forward-Deployed Systems Engineering | Zero-Trust Systems Infrastructure | AI Creative Emergence & Reflective Reasoning Research**
+> *AI Research and Utility For Innovators Advancing Discovery At The Frontier*
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+## Enabling Transparent, Adaptive, and Reliable AI for the Agentic Era
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Recursive Labs is building foundational infrastructure for the next generation of AI—where agents are composable, memory-aware, and robustly interpretable by design. As language models and agent frameworks become core infrastructure, reliability, traceability, and alignment are no longer add-ons—they are critical requirements for responsible, scalable deployment.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+We believe the future of AI will be defined by systems that can reason transparently, adapt persistently, and learn safely in dynamic environments. Our work addresses the biggest challenges facing the field today:
