@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>doi.org/10.5281/zenodo.15485942 | recursivelabsai.github.io | github.com/recursivelabsai | huggingface.co/recursivelabsai | github.com/davidkimai | github.com/caspiankeyes</a>
 
 profile:
   align: right
