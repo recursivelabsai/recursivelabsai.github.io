@@ -6,7 +6,7 @@ subtitle: <a href='#'>doi.org/10.5281/zenodo.15485942 | recursivelabsai.github.i
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: ![pareto-lang-internal-modified](https://github.com/user-attachments/assets/e94f27cf-a53c-437b-8ea5-0fd27d7a7214)
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>555 your office number</p>
